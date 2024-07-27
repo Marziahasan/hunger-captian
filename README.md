@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://hunger-captain-backend-o5qw.onrender.com/) her
 1. Git Clone 
 
 ```
-git clone https://github.com/Adedeji2100/Hunger-Captain
+git clone https://github.com/Marziahasan/hunger-captian.git
 ```
 
 2. Backend setting
