@@ -9,9 +9,9 @@ This is an online food menu service for Hunger Captain. When you visit the resta
 
 **This App uses a Render and Netlify free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://hunger-captian-adedeji.netlify.app/) here!!
+Check out [FRONTEND LIVE DEMO](https://marzia-hunger-captian.netlify.app/) here!!
 
-Check out [API LIVE DEMO](https://sdbackend-vfvb.onrender.com/) here!!
+Check out [API LIVE DEMO](https://hunger-captain-backend-o5qw.onrender.com/) here!!
 
 ## Tech used
 
